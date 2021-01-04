@@ -1,6 +1,7 @@
 body {
+    height: 100%;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: auto;
 }
 
 img {
@@ -23,7 +24,4 @@ footer {
     height: 40px;
     line-height: 40px;
     text-align: center;
-}
-.container-sm {
-    background-color: white;
 }
