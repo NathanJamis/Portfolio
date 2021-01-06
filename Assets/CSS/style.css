@@ -5,8 +5,9 @@ body {
 }
 
 img {
-    height: 256px;
-    width: 192px;
+    height: 200px;
+    width: 200px;
+    object-fit: contain;
 }
 
 hr.solid {
