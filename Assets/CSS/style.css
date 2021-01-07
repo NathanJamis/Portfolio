@@ -1,7 +1,7 @@
 body {
     height: 100%;
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-repeat: repeat;
+    background-size: auto;
 }
 
 img {
@@ -14,15 +14,19 @@ hr.solid {
     border-top: 1px solid white;
 }
 .card {
-    background-color: #343a40;
     color: #ffffff;
 }
+
 footer {
     position: sticky;
     left: 0;
     bottom: 0;
     width: 100%;
-    height: 40px;
-    line-height: 40px;
+    height: 50px;
+    line-height: 50px;
     text-align: center;
+}
+
+.forSpacing {
+    padding-bottom: 100px;
 }
