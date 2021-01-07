@@ -6,10 +6,10 @@
 ## [Link to GitHub deployment](https://nathanjamis.github.io/Portfolio/)
 ---
 ### Screenshots of deployed repo
-![](Assets\Images\AboutMeScreen.png)
-![](Assets\Images\PortfolioScreen.png)
-![](Assets\Images\ContactScreen.png)
+![](AboutMeScreen.png)
+![](PortfolioScreen.png)
+![](ContactScreen.png)
 ---
 Short GIF demonstrating responsiveness
-![](Assets\PortfolioGif.gif)
+![](PortfolioGif.gif)
 ---
